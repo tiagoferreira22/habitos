@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Habits é um app para ajudar a rastrear os hábitos de links para usar como cartão de visitas online.
 
+-[visite o nosso projeto online](https://tiagoferreira22.github.io/habitos/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/Zj9koYCvlMiyUvW6noTwTT/Habits-(e)-(Community)?node-id=6%3A910&t=2aXkA2ExQZFTfBhJ-1>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
